@@ -1,0 +1,165 @@
+*{margin:0;
+  padding:0;}
+
+
+body{font-family: 'Roboto', sans-serif;}
+
+
+/*header section*/
+header{width:100%;
+	height:15px;
+	margin: auto;
+    padding:30px 0;}
+
+
+.container{width:90%;
+    margin:0 auto;}
+
+.logo{width:20%;
+	float:left;}
+
+.logo img{}
+
+nav{width:80%;
+	float:right;}
+
+nav ul{width:100%;
+	text-align:right;
+	margin: 0;
+	padding: 0;}
+
+nav ul li{list-style:none;
+	display:inline-block;
+	padding-right:40px;}
+
+nav ul li:last-child{
+	padding-right:0px!important;}
+
+nav ul li a{text-decoration:none; 
+	color:gray;
+	font-size:20px;}
+
+/*banner section*/
+
+.banner-section{width:100%;}
+
+.banner-img{width:100%;}
+
+.banner-img img{width:100%;
+	height:500px;}
+
+
+/*artical section*/
+
+.artical-section{width:100%;}
+
+.art-part-1{padding:40px 0;}
+
+.art-part-1 span{color:gray;
+margin:20px 0;}
+
+.art-part-1 h2{color:gray;
+margin:20px 0;}
+
+.art-part-1 p{color:gray;
+margin:20px 0!important;}
+
+.art-part-1 a{text-decoration:none;
+color:gray;}
+
+
+/*gallery section*/
+
+.gallery{width:100%;
+margin:20px 0;
+display:inline-block;}
+
+.gallery-box{width:47%;
+float:left;
+margin-right:20px;}
+
+.gallery-box img{width:100%;}
+
+.gallery-box span{color:gray;}
+
+.gallery-box h2{color:gray;
+margin:20px 0;}
+
+.gallery-box p{color:gray;}
+
+.margin{margin-right:20px;}
+
+.load{text-align:center;}
+
+.load-1{width:200px;
+	height: 70px;
+background-color:#e4e2e2;
+margin-top:60px;
+margin-bottom:20px;}
+
+.load-1 a{text-decoration: none;
+font-size: 20px;
+color:gray;}
+
+
+/*newsletter section*/
+
+.newsletter-section{width:100%;
+background-color:#e4e2e2;
+text-align:center;
+padding:100px 0;
+margin:35px 0;}
+
+.news{}
+
+.news h2{margin-bottom:30px;}
+
+.news input{width:26%;
+	border:none;
+	border-bottom:1px solid black;
+	background:transparent;
+padding:10px;}
+
+.news button{border:none;
+background:transparent;}
+
+
+
+/*footer section*/
+
+.footer-section{width:100%;
+height:80px;
+background-color:#bbbbbb;}
+
+.container-1{width:95%;
+    margin:0 auto;}
+
+.menu{display:inline-block;
+float:left;}
+
+.menu ul{padding:30px 0;}
+
+.menu ul li{list-style:none;
+display:inline-block;}
+
+.menu ul li a{text-decoration:none;
+color:black;
+font-size:20px;
+margin-left:10px;}
+
+.menu-1{display:inline-block;
+float:right;}
+
+.menu-1 ul{padding:30px 0;}
+
+.menu-1 ul li{list-style:none;
+display:inline-block;}
+
+.menu-1 ul li a{margin-left:10px;}
+
+.menu-1 ul li a img{width:20px;
+height:20px;}
+
+.follow{font-size:20px;}
+
+
